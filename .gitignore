@@ -1,0 +1,13 @@
+.DS_Store
+
+/.idea/
+__pycache__/
+
+/data/AMBER_image
+/data/raw_data
+/data/processed_data
+/data/mode
+/record
+/output
+
+/src/trigger_test.py
